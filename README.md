@@ -18,7 +18,7 @@
 ## 🏢 Tentang Finyra Software
 
 <p align="center">
-  <img src="/img/logo.png" alt="Logo Finyra Software" width="180"/>
+  <img src="/img/logo.png" alt="Logo Finyra Software" width="100"/>
 </p>
 
 <p align="justify">
