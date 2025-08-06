@@ -1,42 +1,42 @@
 <h1 align="center">Hi there! 👋 I'm Yks889</h1>
 
 <p align="center">
-  🌐 Full Stack Developer | 💻 Open Source Enthusiast | 🎵 Music Lover | 🚀 Continuous Learner
+  🎨 UI/UX Designer | 🌐 Front-End & Back-End Developer | 💼 Founder of Finyra Software
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍🎨 Tentang Saya
 
-- 🧠 Currently working on innovative web and mobile applications  
-- 🌱 Deepening my knowledge in **React, Node.js, and Flutter**  
-- 🎯 Passionate about creating seamless user experiences  
-- 🤝 Open to collaborating on impactful open-source projects  
-- ⚡ Fun fact: I code better with my favorite playlist in the background!  
+- 🧠 Fokus utama di bidang **UI/UX Design** — dari wireframe hingga prototyping
+- 💻 Kadang menangani **Frontend** dan **Backend**, tapi lebih mengutamakan sisi desain dan pengalaman pengguna
+- 🧩 Founder dari **Finyra Software**, sebuah brand yang bergerak di bidang teknologi & desain
+- 🚀 Finyra Software melayani:
+  - Desain antarmuka (UI/UX)
+  - Pembuatan website & aplikasi
+  - Jasa pembuatan logo dan brand identity
+- 🤝 Terbuka untuk kolaborasi dalam proyek-proyek kreatif dan inovatif
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Teknologi & Tools
 
 ```bash
-Languages      : JavaScript, TypeScript, Python, PHP, Dart
-Frontend       : React, Next.js, HTML5, CSS3, Tailwind, Bootstrap
-Backend        : Node.js, Express, Laravel, Django
-Mobile         : Flutter, React Native
-Database       : PostgreSQL, MongoDB, Firebase
-DevOps & Tools : Git, Docker, AWS, VS Code, Figma
+Desain UI/UX   : Figma, Adobe XD, Photoshop, Illustrator
+Frontend       : HTML5, CSS3, JavaScript, Tailwind, React, Next.js
+Backend        : Node.js, PHP, Laravel
+Mobile         : Flutter
+Database       : Firebase, MongoDB, MySQL
+DevOps & Tools : Git, GitHub, Vercel, Netlify, VS Code
 ```
 
 ---
 
-## 🎵 Now Playing on Spotify
+## 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nmdcxpcxtkowaicvsje7k7dy4q
-&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nmdcxpcxtkowaicvsje7k7dy4q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
-
-> 💡 Ganti `YOUR_SPOTIFY_ID` dengan ID Spotify kamu.
 
 ---
 
@@ -53,7 +53,7 @@ DevOps & Tools : Git, Docker, AWS, VS Code, Figma
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Terhubung dengan Saya
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -70,5 +70,5 @@ DevOps & Tools : Git, Docker, AWS, VS Code, Figma
 </p>
 
 <p align="center">
-  Made with ❤️ and JavaScript by <strong>Yks889</strong>
+  Made with ❤️ by <strong>Yks889</strong> | Founder of <strong>Finyra Software</strong>
 </p>
