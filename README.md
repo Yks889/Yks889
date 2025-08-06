@@ -26,12 +26,15 @@ Mobile         : Flutter, React Native
 Database       : PostgreSQL, MongoDB, Firebase
 DevOps & Tools : Git, Docker, AWS, VS Code, Figma
 
-🎵 Currently Jamming To
+---
+
+## 🎵 Currently Jamming To
 
 https://spotify-readme-phi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yks889&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yks889&theme=radical" alt="GitHub Streak" width="45%"/> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yks889&layout=compact&theme=radical" alt="Top Languages" width="45%"/> </div>
-🌐 Connect With Me
+
+## 🌐 Connect With Me
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
