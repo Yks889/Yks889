@@ -32,7 +32,8 @@ DevOps & Tools : Git, Docker, AWS, VS Code, Figma
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nmdcxpcxtkowaicvsje7k7dy4q
+&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 > 💡 Ganti `YOUR_SPOTIFY_ID` dengan ID Spotify kamu.
