@@ -6,18 +6,6 @@
 
 ---
 
-## ✨ Islamic Quote
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <i>"Barangsiapa yang bertakwa kepada Allah, niscaya Dia akan membukakan jalan keluar baginya, dan memberinya rezeki dari arah yang tidak disangka-sangka."</i> (QS. At-Talaq: 2-3) &nbsp;&nbsp;•&nbsp;&nbsp; 
-    <i>"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum sampai mereka mengubah keadaan diri mereka sendiri."</i> (QS. Ar-Ra'd: 11) &nbsp;&nbsp;•&nbsp;&nbsp;
-    <i>"Dan bersabarlah, karena sesungguhnya Allah tidak menyia-nyiakan pahala orang yang berbuat baik."</i> (QS. Hud: 115)
-  </marquee>
-</p>
-
----
-
 ## 👨‍🎨 Tentang Saya
 
 - 🧠 Fokus utama di bidang **UI/UX Design** — dari wireframe hingga prototyping
@@ -72,6 +60,18 @@ DevOps & Tools : Git, GitHub, Vercel, Netlify, VS Code
   <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Islamic Quote
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <i>"Barangsiapa yang bertakwa kepada Allah, niscaya Dia akan membukakan jalan keluar baginya, dan memberinya rezeki dari arah yang tidak disangka-sangka."</i> (QS. At-Talaq: 2-3) &nbsp;&nbsp;•&nbsp;&nbsp; 
+    <i>"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum sampai mereka mengubah keadaan diri mereka sendiri."</i> (QS. Ar-Ra'd: 11) &nbsp;&nbsp;•&nbsp;&nbsp;
+    <i>"Dan bersabarlah, karena sesungguhnya Allah tidak menyia-nyiakan pahala orang yang berbuat baik."</i> (QS. Hud: 115)
+  </marquee>
 </p>
 
 ---
