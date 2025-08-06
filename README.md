@@ -100,7 +100,7 @@ DevOps & Tools : Git, GitHub, VS Code
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Yks889/count.svg" />
+  <img src="https://hits.sh/github.com/Yks889.svg?style=flat-square&label=Visitors&color=4CAF50&logo=github" alt="Hits" />
 </p>
 
 <p align="center">
