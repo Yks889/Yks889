@@ -17,7 +17,7 @@
 
 ## 🏢 Tentang Finyra Software
 
-<p align="left">
+<p align="center">
   <img src="/img/logo.jpeg" alt="Logo Finyra Software" width="180"/>
 </p>
 
@@ -33,7 +33,7 @@
 - 🔹 Jasa pembuatan aplikasi mobile & web  
 - 🔹 Konsultasi & solusi digital untuk bisnis Anda  
 
-<p align="left">
+<p align="center">
   <a href="https://chat.whatsapp.com/YOUR_GROUP_INVITE_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Join%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
   </a>
