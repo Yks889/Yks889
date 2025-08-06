@@ -29,7 +29,7 @@
 - 🔹 Jasa pembuatan aplikasi mobile & web  
 - 🔹 Konsultasi & solusi digital untuk bisnis Anda  
 
-<p align="center">
+<p align="left">
   <a href="https://chat.whatsapp.com/YOUR_GROUP_INVITE_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Join%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
   </a>
