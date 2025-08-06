@@ -36,8 +36,11 @@ DevOps & Tools : Git, GitHub, VS Code
 ## 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nmdcxpcxtkowaicvsje7k7dy4q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nmdcxpcxtkowaicvsje7k7dy4q&redirect=true)" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmdcxpcxtkowaicvsje7k7dy4q&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmdcxpcxtkowaicvsje7k7dy4q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
 </p>
+
 
 ---
 
