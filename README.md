@@ -17,6 +17,10 @@
 
 ## 🏢 Tentang Finyra Software
 
+<p align="center">
+  <img src="/img/logo.png" alt="Logo Finyra Software" width="180"/>
+</p>
+
 <p align="justify">
   <strong>Finyra Software</strong> adalah brand yang saya dirikan, bergerak di bidang teknologi dan desain. Fokus utama kami adalah memberikan layanan terbaik dalam hal visual dan antarmuka pengguna.
 </p>
@@ -35,7 +39,6 @@
   </a>
 </p>
 
----
 
 ## 🚀 Teknologi & Tools
 
