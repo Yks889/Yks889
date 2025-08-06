@@ -11,11 +11,23 @@
 - 🧠 Fokus utama di bidang **UI/UX Design** — dari wireframe hingga prototyping
 - 💻 Kadang menangani **Frontend** dan **Backend**, tapi lebih mengutamakan sisi desain dan pengalaman pengguna
 - 🧩 Founder dari **Finyra Software**, sebuah brand yang bergerak di bidang teknologi & desain
-- 🚀 Finyra Software melayani:
-  - Desain antarmuka (UI/UX)
-  - Pembuatan website & aplikasi
-  - Jasa pembuatan logo dan brand identity
 - 🤝 Terbuka untuk kolaborasi dalam proyek-proyek kreatif dan inovatif
+
+---
+
+## 🏢 Tentang Finyra Software
+
+<p align="justify">
+  <strong>Finyra Software</strong> adalah brand yang saya dirikan, bergerak di bidang teknologi dan desain. Fokus utama kami adalah memberikan layanan terbaik dalam hal visual dan antarmuka pengguna.
+</p>
+
+### 💡 Layanan Utama:
+
+- 🔹 Desain UI/UX untuk aplikasi dan website
+- 🔹 Pembuatan website profesional & responsif
+- 🔹 Desain logo & identitas brand (branding)
+- 🔹 Jasa pembuatan aplikasi mobile & web
+- 🔹 Konsultasi & solusi digital untuk bisnis Anda
 
 ---
 
