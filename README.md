@@ -53,14 +53,6 @@ DevOps & Tools : Git, GitHub, Vercel, Netlify, VS Code
 
 ---
 
-## 🌐 Terhubung dengan Saya
-
-<p align="center">
-
-</p>
-
----
-
 ## ✨ Islamic Quote
 
 <p align="center">
